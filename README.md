@@ -38,7 +38,7 @@ goto(variable)
 for c++ i create two version of matrix in first version user have some accessablity like choosing color and word for matrix animation but on second version instead of getting input from user i work on code and some other feature like changeing color , random words and etc 
 
 matrix.cpp
-```
+```cpp
 #include <iostream>
 #include <ncurses.h>
 #include <cstdlib>
